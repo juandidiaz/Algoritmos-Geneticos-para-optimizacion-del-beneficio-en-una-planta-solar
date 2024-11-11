@@ -29,3 +29,24 @@ Instala las dependencias con:
 
 ```bash
 pip install numpy matplotlib
+```
+### Cómo Ejecutar el Proyecto
+Clona el repositorio en tu máquina local:
+
+```bash
+git clone https://github.com/juandidiaz/Algoritmos-Geneticos-para-optimizacion-del-beneficio-en-una-planta-solar.git
+cd Algoritmos-Geneticos-para-optimizacion-del-beneficio-en-una-planta-sola
+```
+
+### Ejecuta el archivo main.py para comenzar la optimización con el algoritmo deseado:
+
+```bash
+python main.py
+```
+Revisa los resultados de optimización generados por el algoritmo y evalúa las mejoras en los beneficios de la planta solar.
+
+### Notas
+Cada algoritmo tiene diferentes parámetros que pueden ajustarse para obtener los mejores resultados. La experimentación con estos parámetros, como la tasa de mutación, el tamaño de la población y el número de iteraciones, puede impactar en la eficiencia y efectividad de la optimización.
+
+Este proyecto proporciona una plataforma para experimentar y comparar distintos algoritmos genéticos y técnicas de optimización aplicadas a la industria de la energía solar.
+
